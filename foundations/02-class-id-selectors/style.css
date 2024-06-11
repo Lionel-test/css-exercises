@@ -1,0 +1,18 @@
+.odd-nrs {
+    background-color:rgb(255, 152, 152);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#number-2 {
+    color:rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.size-24px {
+    font-size: 24px;
+}
+
+#number-4 {
+    background-color:hsl(125, 64%, 73%);
+    font-weight: bold;
+}
